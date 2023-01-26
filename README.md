@@ -8,7 +8,7 @@
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  
+
   - [License](#license)
   - [How to Contribute](#how-to-contribute)
   - [Tests](#test)
