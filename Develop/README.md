@@ -1,35 +1,33 @@
 
-  # Sample README
-  [![ISC](https://img.shields.io/badge/license-ISC-blue)](https://spdx.org/licenses/ISC.html)
+  # Text Editor
+  [![MIT](https://img.shields.io/badge/license-MIT-blue)](https://spdx.org/licenses/MIT.html)
 
   ## Description
-  This is a sample README using the README Generator. All the user does is answer questions pertaining to their project. 
+  This is a text editor application. It's a progressive web app so it functions without internet connection. You can also install it to your local machine so you don't need the browser. I learned how to build a PWA using webPack.
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
+  
   - [License](#license)
   - [How to Contribute](#how-to-contribute)
   - [Tests](#test)
   - [Questions](#questions)
 
   ## Installation
-  Open the terminal and type in node index.js, hit enter, and you will be prompted with questions that you will fill out.
+  [Live Page](https://text-editor-danibano.herokuapp.com/)
 
   ## Usage
-  You probably need a README for the code you write so this would help with that.
-  ## Credits 
- You have an option to credit anyone who helped, otherwise you can say no and this section will not be included in the README.
-
+  images
+  
   ## License 
- This project is covered under the ISC license.
+ This project is covered under the MIT license.
 
   ## How to Contribute
-  Here you can state guidlines for how others can contribute
+  na
 
   ## Tests
-  If you have any tests they would go here.
+  na
 
   ## Questions
   If you have questions please email me.
